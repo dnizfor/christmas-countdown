@@ -10,7 +10,7 @@ We build it for those who miss christmas :)
 # Development
 
 We build it with  :
-- React Js
+
 - Node Js
 - Express Js
 
